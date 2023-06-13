@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Simple Shopping Cart: Using State Hooks
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Source code for how we can use React State Hooks to create a Mini Cart for e-commerce platform.
 
 ## Available Scripts
 
