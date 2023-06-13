@@ -1,6 +1,6 @@
 # Simple Shopping Cart: Using State Hooks
 
-Source code for how we can use React State Hooks to create a Mini Cart for e-commerce platform.
+Source code for how we can use React `State Hooks` to create a Mini Cart for e-commerce platform.
 
 ## Available Scripts
 
